@@ -1,3 +1,2 @@
 - Memory game inspired by the Genius game in JavaScript.
-------------
-- Practical challenge carried out on the platform [Digital Innovation One]
+- Practical challenge carried out on the platform 
